@@ -13,3 +13,5 @@ dvc
 uvicorn
 streamlit-folium
 folium
+openrouteservice
+fastapi

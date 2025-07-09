@@ -53,9 +53,9 @@ dvc repro
 
 ## Launch the app:
 
-uvicorn app.main:app --reload
+uvicorn app.app:app --reload  
 
-streamlit run app/app.py
+streamlit run app/main.py 
 
 
 
